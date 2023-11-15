@@ -10,7 +10,7 @@ This Laravel application provides an API to fetch Kanye West quotes. It includes
 
 #### Prerequisites
 
--  Laravel installed (minimum version X.X.X) 
+-  Laravel installed (minimum version 10.10) 
 -  Homestead configured (with Redis enabled) 
 
 ## Installation
@@ -40,11 +40,11 @@ This Laravel application provides an API to fetch Kanye West quotes. It includes
 
 ## Testing
 
-### Feature Tests
+ Feature Tests
  To run feature tests:
 - php artisan test --testsuite=Feature
 
-### Unit Tests
+ Unit Tests
  To run unit tests:
 - php artisan test --testsuite=Unit
 
